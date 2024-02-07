@@ -1,12 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-    Homepage
-    </div>
+    <>
+      <header>
+        <Header/>
+      </header>
+
+      <nav>
+        <Nav/>
+      </nav>
+
+      <main>
+        <Main/>
+      </main>
+
+      <footer>
+        <Footer/>
+      </footer>
+    </>
   );
-}
+};
 
 export default App;
