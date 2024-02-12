@@ -1,0 +1,21 @@
+.CallToAction > img{
+    max-width: 20%;
+    height:auto;
+    border-radius: 5%;
+    margin-right: 20%;
+    margin-bottom: -3%;
+    margin-top: -1%;
+    }
+
+
+.CallToAction{
+    display: flex;
+    background-color: #495E57; /* Example background color */
+    border-radius: 2%;
+  }
+
+
+.CallToAction-content{
+    margin-right: 10%;
+
+  }

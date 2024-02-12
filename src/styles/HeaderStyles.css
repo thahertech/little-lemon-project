@@ -1,0 +1,14 @@
+Header {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+
+address{
+  text-align: center;
+  margin-bottom: 20%;
+}
+  
+  Header > img {
+    width: 35%;
+  }
